@@ -9,6 +9,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsdoc": "^3.4.0"
   }
 }

@@ -10,3 +10,6 @@ Run test file:
 ```
 node app.js
 ```
+
+## Documentation:
+[Here: docs.md](docs.md)
